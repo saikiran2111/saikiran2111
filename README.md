@@ -15,7 +15,7 @@ I am a specialist Full stack developer with expertise in a wide range of technol
 
 ## Education
 
-- Pursuing BTech in Computer Science and Engineering
+- Completed BTech in Computer Science and Engineering
 
 ## Contact Me
 
