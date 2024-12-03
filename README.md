@@ -9,9 +9,9 @@ I am a specialist Full stack developer with expertise in a wide range of technol
 - **Programming Languages:** Java, Python, C++, C
 - **Web Development:** HTML, CSS, JavaScript, React.js, Node.js, Express.js
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Machine Learning / Deep Learning:** Python, TensorFlow, Keras, PyTorch
+- **Machine Learning / Deep Learning:** Python, TensorFlow, Keras, PyTorch, LLMs, NLP
 - **Internet of Things (IoT):** Raspberry Pi, Arduino, Different Sensors, Microcontrollers
-- **Cloud Services:** AWS (Amazon Web Services)
+- **Cloud Services:** AWS (Amazon Web Services), GCP (Google cloud platform)
 
 ## Education
 
